@@ -76,4 +76,4 @@ There was no relationship with the levels of over 85s and the outcome.
 ![Figure8](figure/FED_clustering_analysis.png)
 
 ## Outlier elimination
-![Text displayed for visually impaired](outlier_elimination.png)
+![Text displayed for visually impaired](figure/outlier_elimination.png)
