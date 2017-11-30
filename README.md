@@ -32,6 +32,7 @@ We wanted to know the percentage of people that voted Yes and No in each state.
 
 The graphs below show that ACT had the highest percentage of Yes votes in the country!
 Victoria came in second :)
+
 ![Figure4](figure/No_per_state.png) 
 ![Figure5](figure/No_ResBas.jpeg)
 
