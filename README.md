@@ -16,13 +16,13 @@ Meanwhile, there were more female responding than male in all the states with a 
 Senior citizens were more likely to reply the postal survey, with 87.2% of eligible Australian over 60 years old participating. Whereas the participation rate was lowest in the age group of 25-34 at 72.2%.
 
 
-##Research question 2: Are different age groups correlated based on their participation patterns?
+## Research question 2: Are different age groups correlated based on their participation patterns?
 ### See the detail of age
 ![Figure2](figure/Age_correlations.png)
 
 
 
-##Research question 3: What states had the highest and lowest “Yes” votes?
+## Research question 3: What states had the highest and lowest “Yes” votes?
 
 
 We wanted to know the percentage of people that voted Yes and No in each state.
@@ -39,7 +39,7 @@ New South Wales had the highest percentage of No voters.
 
 
 
-##Research question 4: Can gender or age predict the “Yes” vote?
+## Research question 4: Can gender or age predict the “Yes” vote?
 
 We did not have the “Yes” vote data broken down by age or gender unfortunately...
 But...statistics!
@@ -66,6 +66,6 @@ Finally we examined whether the amount of the oldest Australians (over 85) votin
 There was no relationship with the levels of over 85s and the outcome.
 
 
-##Research question 5:Can different FED be correlated based on their participation patterns - Cluster analysis?
+## Research question 5:Can different FED be correlated based on their participation patterns - Cluster analysis?
 ### Cluster 
 ![Figure8](figure/FED_clustering_analysis.png)
