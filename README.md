@@ -7,7 +7,7 @@
 
 ##Research question 1: Who participated the vote?
 ### Participation basic information-gender and state
-![text] ( C:\Users\Administrator\Desktop\Marriage Equality\figure.No_ResBas.jpeg)
+![text] ( C:/Users/Administrator/Desktop/Marriage Equality/figure/No_ResBas.jpeg)
 
 
 
