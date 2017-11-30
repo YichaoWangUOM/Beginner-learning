@@ -27,11 +27,13 @@ Senior citizens were more likely to reply the postal survey, with 87.2% of eligi
 
 We wanted to know the percentage of people that voted Yes and No in each state.
 
-![Figure3](figure/Yes_per_state.png)
+![Figure3](figure/Yes_per_state.png) 
+![Figure3](figure/Yes_ResBas.jpeg) 
 
 The graphs below show that ACT had the highest percentage of Yes votes in the country!
 Victoria came in second :)
-![Figure4](figure/No_per_state.png)
+![Figure4](figure/No_per_state.png) 
+![Figure5](figure/No_ResBas.jpeg)
 
 
 New South Wales had the highest percentage of No voters.
