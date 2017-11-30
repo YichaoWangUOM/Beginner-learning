@@ -1,13 +1,13 @@
 #Marriage Equality Referendum Data
 
-ddd
+
 
 ##Research question 1: Who partcipated the vote?
 ### Participation basic information-gender and state
 
 ##Research question 1: Who participated the vote?
 ### Participation basic information-gender and state
-![Text C:\Users\Administrator\Desktop\Marriage Equality\figure.No_ResBas.jpeg)]
+![text] ( C:\Users\Administrator\Desktop\Marriage Equality\figure.No_ResBas.jpeg)
 
 
 
