@@ -4,7 +4,7 @@
 ## Research question 1: Who participated the vote?
 
 ## Participation by States and Gender
-![text] (No_ResBas.jpeg)
+![text](Participation by states and gender.png)
 
 
 12,727,920 (79.5%) eligible Australians participated in the Australian Marriage Law Postal Survey.  
